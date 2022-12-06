@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import AppBar from './components/AppBar';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
